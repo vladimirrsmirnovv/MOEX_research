@@ -15,4 +15,4 @@
 
 **Полезные ссылки на будущее:**  
 [Артём Ерохин – Бутстрапирование временных рядов (ODS AI RU)](https://youtu.be/XyM8AElqE2c?si=4QKGs_msiLPjiluc)  
-[Презентация](https://drive.google.com/file/d/13i2L3ByUryPO3nY0-6vRq5w86zZTxx9R/view)
+[Артём Ерохин – Бутстрапирование временных рядов (ODS AI RU). Презентация](https://drive.google.com/file/d/13i2L3ByUryPO3nY0-6vRq5w86zZTxx9R/view)
